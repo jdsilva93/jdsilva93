@@ -9,9 +9,8 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 <!-- Talking about you -->
 **About Me (TLDR):**
-- I am a Senior Azure Platform Engineer, with a focus on IaC, DevOps and Cloud Security.
+- I am a Senior Azure Platform Engineer, with a focus on Cloud, IaC, DevOps and Cyber Security.
 - Have 7 years experience as an Electronics Research and Technology Engineer in Aerospace.
-- Excited about technology, with a keen interest in AI, Machine Learning and how it can be leveraged in Cloud Security.
 ---
 
 **Tools and Languages:**
